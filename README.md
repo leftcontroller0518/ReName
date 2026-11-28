@@ -1,7 +1,7 @@
 # ReName
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![.NET: 10.0](https://img.shields.io/badge/.NET-10.0-blue.svg)](https://dotnet.microsoft.com/)
-[![YMM4](https://img.shields.io/badge/YMM4-v4.47%2B-green.svg)](https://manjubox.net/ymm4/)
+[![YMM4](https://img.shields.io/badge/YMM4-v4.57.0.1%2B-green.svg)](https://manjubox.net/ymm4/)
 [![Harmony](https://img.shields.io/badge/powered%20by-HarmonyLib-orange.svg)](https://github.com/pardeike/harmony)
 
 **ReName** は、ゆっくりMovieMaker4 (YMM4) のタイムライン上で、アイテムの表示名を直接編集可能にするプラグインです。  
